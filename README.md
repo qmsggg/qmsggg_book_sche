@@ -18,7 +18,7 @@
 - TCP／IP详解：卷1协议
 
 ## 算法
-- 计算机程序设计艺术
+- [计算机程序设计艺术](https://github.com/qmsggg/qmsggg_book_sche/issues/8)
 
 ## others
 - 卑鄙的圣人：曹操
