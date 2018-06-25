@@ -5,7 +5,7 @@
 - [Android开发艺术探究](https://github.com/qmsggg/qmsggg_book_sche/issues/1)
 
 ## IOS
-- [老码说编程之玩转Swift江湖(]https://github.com/qmsggg/qmsggg_book_sche/issues/3)
+- [老码说编程之玩转Swift江湖](https://github.com/qmsggg/qmsggg_book_sche/issues/3)
 - [IOS开发指南](https://github.com/qmsggg/qmsggg_book_sche/issues/7)
 
 ## C++
