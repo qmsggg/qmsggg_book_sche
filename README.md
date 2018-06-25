@@ -10,7 +10,7 @@
 
 ## C++
 - [ ] [C++标准库](https://github.com/qmsggg/qmsggg_book_sche/issues/4)
-- [ ] [C++Plus](https://github.com/qmsggg/qmsggg_book_sche/issues/5)
+- [ ] [C++Primer](https://github.com/qmsggg/qmsggg_book_sche/issues/5)
 - [ ] [编写高质量C++：150建议](#)
 - [ ] [C++内存管理技术](#)
 
