@@ -12,6 +12,7 @@
 - [C++标准库](https://github.com/qmsggg/qmsggg_book_sche/issues/4)
 - [C++Plus](https://github.com/qmsggg/qmsggg_book_sche/issues/5)
 - [编写高质量C++：150建议](#)
+- [C++内存管理技术](#)
 
 ## 网络
 - [路由与交换](https://github.com/qmsggg/qmsggg_book_sche/issues/2)
@@ -19,6 +20,10 @@
 
 ## 算法
 - [计算机程序设计艺术](https://github.com/qmsggg/qmsggg_book_sche/issues/7)
+
+## 区块链
+- [腾讯区块链白皮书]()
+- [精通比特币]()
 
 ## others
 - [卑鄙的圣人：曹操](https://github.com/qmsggg/qmsggg_book_sche/issues/6)
