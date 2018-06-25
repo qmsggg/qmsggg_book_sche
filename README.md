@@ -22,7 +22,7 @@
 - [ ] [计算机程序设计艺术](https://github.com/qmsggg/qmsggg_book_sche/issues/7)
 
 ## 区块链
-- [ ] [腾讯区块链白皮书]()
+- [x] [腾讯区块链白皮书]()
 - [ ] [精通比特币]()
 
 ## others
