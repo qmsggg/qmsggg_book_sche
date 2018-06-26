@@ -11,8 +11,8 @@
 ## C++
 - [ ] [C++标准库](https://github.com/qmsggg/qmsggg_book_sche/issues/4)
 - [ ] [C++Primer](https://github.com/qmsggg/qmsggg_book_sche/issues/5)
-- [ ] [编写高质量C++：150建议](#)
-- [ ] [C++内存管理技术](#)
+- [ ] [编写高质量C++：150建议](https://github.com/qmsggg/qmsggg_book_sche/issues/10)
+- [ ] [C++内存管理技术](https://github.com/qmsggg/qmsggg_book_sche/issues/11)
 
 ## 网络
 - [ ] [路由与交换](https://github.com/qmsggg/qmsggg_book_sche/issues/2)
@@ -24,13 +24,13 @@
 ## 数据结构
 
 ## 软件工程
-- [ ] [大教堂和市集](#)
+- [ ] [大教堂和市集](https://github.com/qmsggg/qmsggg_book_sche/issues/9)
 
 ## Linux
 
 ## 区块链
-- [x] [腾讯区块链白皮书]()
-- [ ] [精通比特币]()
+- [x] [腾讯区块链白皮书](https://github.com/qmsggg/qmsggg_book_sche/issues/11)
+- [ ] [精通比特币](https://github.com/qmsggg/qmsggg_book_sche/issues/12)
 
 ## others
 - [ ] [卑鄙的圣人：曹操](https://github.com/qmsggg/qmsggg_book_sche/issues/6)
