@@ -29,8 +29,8 @@
 ## Linux
 
 ## 区块链
-- [x] [腾讯区块链白皮书](https://github.com/qmsggg/qmsggg_book_sche/issues/11)
-- [ ] [精通比特币](https://github.com/qmsggg/qmsggg_book_sche/issues/12)
+- [x] [腾讯区块链白皮书](https://github.com/qmsggg/qmsggg_book_sche/issues/12)
+- [ ] [精通比特币](https://github.com/qmsggg/qmsggg_book_sche/issues/13)
 
 ## others
 - [ ] [卑鄙的圣人：曹操](https://github.com/qmsggg/qmsggg_book_sche/issues/6)
