@@ -51,7 +51,7 @@ API文档（支持在线调试）
 - [ ] [C++Primer](https://github.com/qmsggg/qmsggg_book_sche/issues/5)
 - [ ] [编写高质量C++：150建议](https://github.com/qmsggg/qmsggg_book_sche/issues/10)
 - [ ] [C++内存管理技术](https://github.com/qmsggg/qmsggg_book_sche/issues/11)
-- [] [C++11]()
+- [x] [C++11]()
 
 ## 网络
 - [ ] [路由与交换](https://github.com/qmsggg/qmsggg_book_sche/issues/2)
