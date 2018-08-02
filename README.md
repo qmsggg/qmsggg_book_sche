@@ -63,6 +63,7 @@ API文档（支持在线调试）
 
 ## 软件工程
 - [ ] [大教堂和市集](https://github.com/qmsggg/qmsggg_book_sche/issues/9)
+- [ ] [黑客与画家](https://github.com/qmsggg/qmsggg_book_sche/issues/13)
 
 ## Linux
 
