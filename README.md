@@ -56,6 +56,12 @@ API文档（支持在线调试）
 - [ ] [路由与交换](https://github.com/qmsggg/qmsggg_book_sche/issues/2)
 - [ ] [TCP／IP详解：卷1协议](https://github.com/qmsggg/qmsggg_book_sche/issues/8)
 
+## JavaScript
+- [ ] [JavaScript编程权威指南]()
+
+## C#
+- [ ] [C#入门指南]()
+
 ## 算法
 - [ ] [计算机程序设计艺术](https://github.com/qmsggg/qmsggg_book_sche/issues/7)
 
